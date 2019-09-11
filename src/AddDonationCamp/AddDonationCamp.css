@@ -1,0 +1,21 @@
+.adddonationcamp_wrapper{
+
+}
+.formdonate{
+	/* margin:10px auto; */
+	max-width: 400px;
+	/* padding: 20px 12px 10px 20px;s */
+    font: 13px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    overflow: hidden;
+}
+label{
+    overflow: hidden;
+}
+h1{
+        text-align: center;
+}
+input,label {
+    /* float: right; */
+    float:none;
+    clear: both;
+  }

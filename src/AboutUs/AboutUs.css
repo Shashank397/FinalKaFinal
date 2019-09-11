@@ -1,0 +1,48 @@
+.aboutus_wrapper{
+
+}
+.container {
+    padding-top: 5cm;
+    padding-bottom: 5cm;
+    /* margin-right: auto;
+    margin-left: auto; */
+    padding-left: 15px;
+    padding-right: 15px;
+}
+div {
+    display: block;
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.widget-item-about .about-content-left {
+    width: 560px;
+    float: left;
+    display: block;
+    margin-top: 30px;
+    font-size: 15px;
+    padding-right: 100px;
+    padding-top:30px;
+}
+.welcome-text {
+    margin: 10px 0 20px;
+    font-weight: 400;
+    font-size: 30px;
+}
+p {
+    margin: 0 0 10px;
+}
+.widget-item-about .about-content-right {
+    width: 450px;
+    /* float: right; */
+    display: block;
+    border: 1px solid #f4f4f4;
+    height: auto;
+    background: #f4f4f4;
+    padding: 20px 30px;
+    margin-top: 90px;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 50px;
+}

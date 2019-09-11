@@ -1,0 +1,23 @@
+.bloodtips_wrapper{
+    
+
+}
+.container
+{
+    padding-top: 3cm;
+    padding-bottom: 3cm;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+p {
+    margin: 0 0 10px;
+}
+ul{
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}

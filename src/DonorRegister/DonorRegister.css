@@ -1,0 +1,13 @@
+.donor-reg
+{
+    margin-right: 3in;
+    /* align-content: left; */
+    margin-left: 2in;
+}
+
+input{
+   align-self: center; 
+   text-align: center;
+   align-content: center;
+   align-items: center;
+}
