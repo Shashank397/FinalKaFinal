@@ -17,7 +17,7 @@ class DonorRegister extends React.Component {
         "country":"",
         "pincode":0,
         "line":"",
-        "donor_availability":"",
+        "donor_availability":"Y",
         "email":"",
         "password": ""
     }

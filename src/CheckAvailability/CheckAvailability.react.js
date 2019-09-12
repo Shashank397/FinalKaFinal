@@ -21,7 +21,7 @@ class CheckAvailability extends React.Component {
         console.log(bloodId);
         console.log(location);
         
-        let url="http://localhost:8080/search/" +this.state.id+"/"+location;
+        let url="http://localhost:1013/search/" +this.state.id+"/"+location;
         fetch(url,{method: 'GET',"headers": {'Content-Type': 'application/json', 
         'Authorization': 'Bearer '+localStorage.getItem("Token")}}).then(resp=>resp.json()).then(donorList=>{this.setState({donorList:donorList,loaded:true})});
       

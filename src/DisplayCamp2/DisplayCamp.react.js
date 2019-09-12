@@ -98,13 +98,13 @@ export default class DisplayCamp extends React.Component {
                  <table className='table table-striped '>
                 <thead>
                         <tr>
-                            <th>title</th>
-                            <th>start</th>
-                            <th>end</th>
-                            <th>venue</th>
+                            <th>Name</th>
+                            <th>Start Date</th>
+                            <th>End Date</th>
+                            <th>Venue</th>
                             
-                            <th>startTime</th>
-                            <th>endTime</th>
+                            <th>Start Time</th>
+                            <th>End Time</th>
                             
                           
                         </tr>
